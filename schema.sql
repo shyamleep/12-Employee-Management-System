@@ -1,7 +1,7 @@
-DROP DATABASE IF EXISTS mortar_db;
-CREATE DATABASE mortar_db;
+DROP DATABASE IF EXISTS audubon_db;
+CREATE DATABASE audubon_db;
 
-USE DATABASE mortar_db;
+USE DATABASE audubon_db;
 
 CREATE TABLE  employees (
     id INT(3) NOT NULL AUTO_INCREMENT ZEROFILL,
