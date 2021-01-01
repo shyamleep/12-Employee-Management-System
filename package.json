@@ -1,0 +1,23 @@
+{
+  "name": "12-employee-management-system",
+  "version": "1.0.0",
+  "description": "Homework 12",
+  "main": "server.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyamleep/12-Employee-Management-System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shyamleep/12-Employee-Management-System/issues"
+  },
+  "homepage": "https://github.com/shyamleep/12-Employee-Management-System#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
