@@ -39,4 +39,5 @@ INSERT INTO employees (id, first_name, last_name, role_id, manager_id, departmen
 (017, "Chimney", "Swift", 09, 013, 3),
 (018, "Great", "Potoo", 10, 013, 3),
 (019, "Bronzy", "Hermit", 08, 013, 3),
-(020, "Corn", "Crake", 10, 012, 3);
+(020, "Corn", "Crake", 10, 012, 3)
+(021, "American", "Coot", 09, 017, 3);
