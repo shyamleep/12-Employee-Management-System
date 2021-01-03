@@ -7,18 +7,18 @@ INSERT INTO departments (id, dept) VALUES
 (13, "Grassroots");
 
 INSERT INTO roles (id, title, salary, department_id) VALUES
-(101, "Partnerships Manager", 140,000, 11),
-(102, "Senior Director", 100,000, 11),
-(103, "Program Manager", 75,000, 11),
-(104, "Project Coordinator", 45,000, 11),
-(105, "Program Manager", 70,000, 12),
-(106, "Action Manager", 125,000, 12),
-(107, "Network VP", 270,000, 12),
-(108, "Program Manager", 90,000, 13),
+(101, "Partnerships Manager", 140000, 11),
+(102, "Senior Director", 100000, 11),
+(103, "Program Manager", 75000, 11),
+(104, "Project Coordinator", 45000, 11),
+(105, "Program Manager", 70000, 12),
+(106, "Action Manager", 125000, 12),
+(107, "Network VP", 270000, 12),
+(108, "Program Manager", 90000, 13),
 (109, "Outreach Associate", 65000, 13),
-(110, "Action Manager", 75,000, 13),
-(111, "Senior Director", 115,000, 13),
-(112, "Grassroots VP", 170,000, 13),
+(110, "Action Manager", 75000, 13),
+(111, "Senior Director", 115000, 13),
+(112, "Grassroots VP", 170000, 13);
 
 INSERT INTO employees (id, first_name, last_name, role_id, manager_id, department_id) VALUES
 (1001, "Northern", "Tinamou", 101, 1008, 11),

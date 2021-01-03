@@ -2,7 +2,7 @@ const mysql = require ("mysql");
 const util = require ("util");
 const connection = require ("./connection");
 const inquirer = require ("inquirer");
-const { allowedNodeEnvironmentFlags } = require("process");
+// const { allowedNodeEnvironmentFlags } = require("process");
 
 const guide = [
     {
